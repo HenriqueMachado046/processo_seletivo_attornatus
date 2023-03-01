@@ -1,0 +1,4 @@
+Pergunta 1)
+Se aquela adição é realmente necessária e funcional ou apenas algo "para bonito".
+Pergunta 2)
+Desde o começo do desenvolvimento do projeto. Quanto mais tempo se passa sem pensar na qualidade do software, mais coisas haverão de ser refeitas.
